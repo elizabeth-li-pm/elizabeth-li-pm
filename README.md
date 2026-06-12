@@ -11,7 +11,7 @@ Data-driven analyst with hands-on experience in user behavior analysis, product 
 
 | Analytics & Data | Visualization | Product & Operations | Methods |
 |---|---|---|---|
-| SQL (MySQL) · Excel | Tableau | Product Operations · CRM | A/B Testing · OLS Regression · PCA |
+| SQL (MySQL) · Excel | Tableau | Product Operations · CRM | A/B Testing · PCA |
 
 ---
 
