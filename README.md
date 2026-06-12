@@ -24,6 +24,7 @@ Data-driven analyst with hands-on experience in user behavior analysis, product 
 - Identified 4 behavioral themes and grouped employees into 3 learner segments with meaningfully different needs
 - Built a Tableau dashboard visualizing completion rates, learning gains, and course format performance by segment
 - **Project won the class competition**
+- [![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/elizabeth-li-pm/TNLA-employee-training-analysis)
 - Translated findings into curriculum redesign recommendations tailored to each learner type
 
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View%20Dashboard-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/elizabeth.li5547/vizzes)
