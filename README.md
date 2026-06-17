@@ -9,9 +9,9 @@ Data-driven analyst with hands-on experience in user behavior analysis, product 
 
 ## 🛠 Skills & Tools
 
-| Analytics & Data | Visualization | Product & Operations |
-|---|---|---|---|
-| SQL (MySQL, PostgreSQL) · Excel | Tableau | Product Operations · CRM |
+**Analytics & Data** | **Visualization** | **Product & Operations**
+
+SQL (MySQL, PostgreSQL) · Excel · Tableau · Product Operations · CRM
 
 ---
 
