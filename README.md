@@ -1,6 +1,6 @@
 # Hi, I'm Elizabeth 👋
 
-MS Marketing Analytics @ Simon Business School (Dec 2026) · SQL · Tableau · Python
+Business Analyst Intern in Faithia · SQL · Tableau · Python
 Turning messy data into business decisions.
 
 📍 Rochester, NY · Open to relocation · elizabethli.career@gmail.com · [LinkedIn](https://www.linkedin.com/in/elizabeth0001)
