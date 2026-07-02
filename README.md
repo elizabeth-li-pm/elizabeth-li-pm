@@ -22,7 +22,7 @@ Ongoing problem sets from DataLemur and LeetCode — JOINs, window functions, su
 
 ## 🛠 Skills
 
-SQL (MySQL, PostgreSQL) · Python (pandas) · Tableau · Excel
+SQL (MySQL, PostgreSQL) · Python (pandas) · Tableau · Excel · Power BI
 
 ---
 
