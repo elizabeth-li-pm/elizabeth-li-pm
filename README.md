@@ -9,11 +9,11 @@ Turning messy data into business decisions.
 
 ## 📂 Featured Projects
 
+**[Tech Industry Layoffs 2020–2025](https://github.com/elizabeth-li-pm/Tech-Layoffs-Analysis)**  
+End-to-end analysis of 2,400+ tech layoff events (2020–2025) using Python, MySQL, and Tableau. Covers data cleaning, SQL business analysis, and interactive dashboards exploring industry trends, company patterns, and geographic distribution.
+
 **[Employee Training Outcomes Analysis](https://github.com/elizabeth-li-pm/TNLA-employee-training-analysis)**
 Team project segmenting 200 employees into 3 learner groups (PCA, OLS regression). Built the Tableau dashboard that surfaced a 20–28 percentage point completion gap between in-person and async training — the insight that anchored the team's recommendation. Won the class competition.
-
-**[Tech Industry Layoffs 2020–2025](https://github.com/elizabeth-li-pm/Tech-Layoffs-Analysis)** *(in progress)*
-Analyzing five years of tech layoff data using Python (pandas) and SQL to find trends across companies, timing, and scale.
 
 **[SQL Practice](https://github.com/elizabeth-li-pm/sql-practice)**
 Ongoing problem sets from DataLemur and LeetCode — JOINs, window functions, subqueries, aggregations.
